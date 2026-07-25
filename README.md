@@ -51,7 +51,7 @@ An ESP32-based smart farming robot for automated irrigation, real-time rice crop
 The circuit diagram of the proposed smart agriculture robot is shown below.
 
 <p align="center">
-  <img src="images/circuit dia.jpg" alt="Circuit Diagram" width="800">
+  <img src="images/circuit diagram.jpg" alt="Circuit Diagram" width="800">
 </p>
 
 ---
@@ -88,7 +88,7 @@ The following images show the hardware prototype and the web dashboard of the sm
 ### Web Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Web Dashboard" width="800">
+  <img src="images/web_dashboard.png" alt="Web Dashboard" width="800">
 </p>
 
 
